@@ -1,6 +1,6 @@
 module DropboxArea
-    class Calculator
-        def initialize
-        end
+  class Calculator
+    def initialize
     end
+  end
 end
