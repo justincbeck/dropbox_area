@@ -1,1 +1,1 @@
-require 'dropbox_area/calulator'
+require 'dropbox_area/dropbox_calulator'
