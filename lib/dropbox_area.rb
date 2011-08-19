@@ -1,4 +1,7 @@
-require 'dropbox_area/bounding_rectangle_packer'
+require 'dropbox_area/packer'
+require 'dropbox_area/horizontal_packer'
+require 'dropbox_area/vertical_packer'
+require 'dropbox_area/optimal_packer'
 require 'dropbox_area/rectangle'
 require 'dropbox_area/packed_rectangle'
 require 'dropbox_area/bounding_rectangle'
