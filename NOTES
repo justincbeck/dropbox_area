@@ -1,0 +1,6 @@
+The best approach appears to be to place a rectangle R in to the bounding rectangle BR at the top left of BR and
+continue inserting rectangles top to bottom and left to right, rotating as you go.
+
+Best way to represent the bounding box?  Maybe a 2 dimensional array of booleans where true means the space is taken
+and false means it's open and available.
+
